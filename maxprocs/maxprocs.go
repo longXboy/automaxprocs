@@ -27,7 +27,7 @@ import (
 	"os"
 	"runtime"
 
-	iruntime "go.uber.org/automaxprocs/internal/runtime"
+	iruntime "go.uber.org/automaxprocs/quota/runtime"
 )
 
 const _maxProcsKey = "GOMAXPROCS"

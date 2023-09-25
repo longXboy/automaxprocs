@@ -29,7 +29,7 @@ import (
 	"strconv"
 	"testing"
 
-	iruntime "go.uber.org/automaxprocs/quota/runtime"
+	iruntime "github.com/longXboy/automaxprocs/quota/runtime"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
